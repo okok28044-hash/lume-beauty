@@ -1,0 +1,584 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lumé Beauty | Beauty Salon</title>
+
+    <link rel="stylesheet" href="style.css?v=20261031-booking">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Playfair+Display:wght@400;500;600;700&display=swap" rel="stylesheet">
+</head>
+
+<body>
+
+<!-- NAVBAR -->
+<header class="navbar">
+
+    <a href="#home" class="logo">
+        LUMÉ
+        <span>BEAUTY</span>
+    </a>
+
+    <nav>
+        <a href="#home">Home</a>
+        <a href="#services">Services</a>
+        <a href="#booking">Book Appointment</a>
+        <a href="#about">About</a>
+        <a href="#team">Our Team</a>
+        <a href="#gallery">Gallery</a>
+        <a href="#contact">Contact</a>
+    </nav>
+
+    <a class="nav-button" href="https://wa.me/96181346961">Book Now</a>
+
+</header>
+
+
+<!-- HERO -->
+<section class="hero" id="home">
+
+    <div class="hero-content">
+
+        <p class="small-title">BEAUTY • CARE • CONFIDENCE</p>
+
+        <h1>
+            Where Beauty Meets <span>Confidence.</span>
+        </h1>
+
+        <p class="hero-text">
+            Discover a beauty experience designed around you.
+            From hair and nails to makeup and relaxation,
+            every detail is made to help you feel your best.
+        </p>
+
+        <div class="hero-buttons">
+
+            <a class="primary-button"
+               href="https://wa.me/96181346961?text=Hello%20Lume%20Beauty,%20I%20would%20like%20to%20book%20an%20appointment.">
+                Book Your Appointment
+            </a>
+
+            <a class="secondary-button" href="#services">
+                Explore Services
+            </a>
+
+        </div>
+
+    </div>
+
+
+    <div class="hero-image">
+        <div class="hero-image-box">
+            <span>Feel Beautiful</span>
+        </div>
+    </div>
+
+</section>
+
+
+<!-- SERVICES -->
+<section class="services section" id="services">
+
+    <div class="section-heading">
+
+        <p class="small-title">WHAT WE OFFER</p>
+
+        <h2>Beauty services made for you.</h2>
+
+        <p>
+            A little care, a little luxury, and a lot of confidence.
+        </p>
+
+    </div>
+
+
+    <div class="services-grid">
+
+        <div class="service-card">
+
+            <div class="service-icon">01 / HAIR</div>
+
+            <h3>Hair Styling</h3>
+
+            <p>
+                Beautiful cuts, styling and treatments
+                to bring out your personal style.
+            </p>
+
+            <a href="https://wa.me/96181346961">Book Now →</a>
+
+        </div>
+
+
+        <div class="service-card">
+
+            <div class="service-icon">02 / NAILS</div>
+
+            <h3>Nails</h3>
+
+            <p>
+                Elegant nail care, creative designs
+                and the perfect finishing touch.
+            </p>
+
+            <a href="https://wa.me/96181346961">Book Now →</a>
+
+        </div>
+
+
+        <div class="service-card">
+
+            <div class="service-icon">03 / MAKEUP</div>
+
+            <h3>Makeup</h3>
+
+            <p>
+                Makeup looks for special occasions
+                and every moment worth celebrating.
+            </p>
+
+            <a href="https://wa.me/96181346961">Book Now →</a>
+
+        </div>
+
+
+        <div class="service-card">
+
+            <div class="service-icon">04 / BEAUTY</div>
+
+            <h3>Spa & Facial</h3>
+
+            <p>
+                Take a moment for yourself with
+                relaxing and refreshing beauty care.
+            </p>
+
+            <a href="https://wa.me/96181346961">Book Now →</a>
+
+        </div>
+
+    </div>
+
+</section>
+
+
+<!-- ABOUT -->
+<section class="about section" id="about">
+
+    <div class="about-image">
+
+        <div class="about-image-box">
+            <span>YOUR BEAUTY, OUR PASSION</span>
+        </div>
+
+    </div>
+
+
+    <div class="about-content">
+
+        <p class="small-title">ABOUT LUMÉ</p>
+
+        <h2>
+            A Place Where Beauty Feels <span>Personal.</span>
+        </h2>
+
+        <p>
+            At Lumé Beauty, we believe beauty is more than
+            appearance. It is about feeling confident,
+            comfortable and appreciated.
+        </p>
+
+        <p>
+            Our goal is to create a welcoming space where
+            every client receives personal attention,
+            professional care and a beautiful experience.
+        </p>
+
+        <p>
+            From the little details to the final touch,
+            we want every visit to feel special.
+        </p>
+
+        <a class="primary-button" href="https://wa.me/96181346961">
+            Visit Us
+        </a>
+
+    </div>
+
+</section>
+
+
+<!-- OUR TEAM -->
+<section class="team section" id="team">
+
+    <div class="section-heading">
+
+        <p class="small-title">MEET OUR TEAM</p>
+
+        <h2>Beauty begins with the right hands.</h2>
+
+        <p>
+            Meet the talented people behind your favorite beauty moments.
+        </p>
+
+    </div>
+
+
+    <div class="team-grid">
+
+        <div class="team-card">
+
+            <div class="team-photo">
+                <img
+                    src="https://images.unsplash.com/photo-1580618672591-eb180b1a973f?auto=format&fit=crop&w=700&q=85"
+                    alt="Hair stylist">
+            </div>
+
+            <div class="team-info">
+
+                <span>HAIR STYLIST</span>
+
+                <h3>Sarah Khalil</h3>
+
+                <p>
+                    Creating beautiful styles that bring out your personality.
+                </p>
+
+            </div>
+
+        </div>
+
+
+        <div class="team-card">
+
+            <div class="team-photo">
+                <img
+                    src="https://images.unsplash.com/photo-1600948836101-f9ffda59d250?auto=format&fit=crop&w=700&q=85"
+                    alt="Nail artist">
+            </div>
+
+            <div class="team-info">
+
+                <span>NAIL ARTIST</span>
+
+                <h3>Maya Haddad</h3>
+
+                <p>
+                    Thoughtful details and elegant nail designs.
+                </p>
+
+            </div>
+
+        </div>
+
+
+        <div class="team-card">
+
+            <div class="team-photo">
+                <img
+                    src="https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=700&q=85"
+                    alt="Makeup artist">
+            </div>
+
+            <div class="team-info">
+
+                <span>MAKEUP ARTIST</span>
+
+                <h3>Lina Nasser</h3>
+
+                <p>
+                    Enhancing your natural beauty for every occasion.
+                </p>
+
+            </div>
+
+        </div>
+
+    </div>
+
+</section>
+<section class="lume-booking" id="booking">
+
+    <div class="booking-heading">
+        <span class="small-title">A LITTLE TIME FOR YOU</span>
+        <h2>Your beauty, <span>your moment.</span></h2>
+        <p>Choose your service and preferred appointment.</p>
+    </div>
+
+    <div class="booking-card">
+
+        <form id="bookingForm">
+
+            <div class="booking-input">
+                <label>Your Name</label>
+                <input type="text" id="clientName"
+                       placeholder="Full name" required>
+            </div>
+
+            <div class="booking-input">
+                <label>Phone Number</label>
+                <input
+                    type="tel"
+                    id="clientPhone"
+                    placeholder="03 123 456"
+                    maxlength="8"
+                    minlength="8"
+                    pattern="[0-9]{8}"
+                    inputmode="numeric"
+                    autocomplete="tel"
+                    oninput="this.value=this.value.replace(/[^0-9]/g,'').slice(0,8)"
+                    required
+                >
+            </div>
+
+            <div class="booking-input">
+                <label>Choose Your Service</label>
+                <select id="service" required>
+                    <option value="" disabled selected>Select a service</option>
+                    <option>Hair Styling</option>
+                    <option>Hair Coloring</option>
+                    <option>Nail Care</option>
+                    <option>Manicure & Pedicure</option>
+                    <option>Makeup</option>
+                    <option>Facial Treatment</option>
+                    <option>Spa & Relaxation</option>
+                </select>
+            </div>
+
+            <div class="booking-row">
+
+                <div class="booking-input">
+                    <label>Preferred Date</label>
+                    <input type="date" id="bookingDate" required>
+                </div>
+
+                <div class="booking-input">
+                    <label>Preferred Time</label>
+                    <select id="bookingTime" required>
+                        <option value="" disabled selected>Select time</option>
+                        <option>09:00 AM</option>
+                        <option>10:00 AM</option>
+                        <option>11:00 AM</option>
+                        <option>12:00 PM</option>
+                        <option>01:00 PM</option>
+                        <option>02:00 PM</option>
+                        <option>03:00 PM</option>
+                        <option>04:00 PM</option>
+                        <option>05:00 PM</option>
+                        <option>06:00 PM</option>
+                    </select>
+                </div>
+
+            </div>
+
+            <div class="booking-input">
+                <label>Additional Notes <span>(Optional)</span></label>
+                <textarea id="bookingNotes"
+                          placeholder="Any special requests?"></textarea>
+            </div>
+
+            <button type="submit" class="booking-submit">
+                Send Booking Request →
+            </button>
+
+            <p class="booking-disclaimer">
+                Your request will be sent directly to LUMÉ Beauty via WhatsApp.
+            </p>
+
+        </form>
+
+    </div>
+
+</section>
+<!-- GALLERY -->
+<section class="gallery section" id="gallery">
+
+    <div class="section-heading">
+
+        <p class="small-title">OUR GALLERY</p>
+
+        <h2>A glimpse of beauty.</h2>
+
+        <p>
+            Explore some of the beauty moments and services
+            that make Lumé special.
+        </p>
+
+    </div>
+
+
+    <div class="gallery-grid">
+
+        <div class="gallery-item large">
+            <span>HAIR</span>
+        </div>
+
+        <div class="gallery-item">
+            <span>NAILS</span>
+        </div>
+
+        <div class="gallery-item">
+            <span>MAKEUP</span>
+        </div>
+
+        <div class="gallery-item">
+            <span>BEAUTY</span>
+        </div>
+
+        <div class="gallery-item">
+            <span>SPA</span>
+        </div>
+
+    </div>
+
+</section>
+
+
+<!-- TESTIMONIAL -->
+<section class="testimonial">
+
+    <p class="small-title">KIND WORDS</p>
+
+    <div class="stars">★★★★★</div>
+
+    <blockquote>
+        "A beautiful experience from the moment
+        you walk in. The care and attention
+        to detail make every visit special."
+    </blockquote>
+
+    <p class="client-name">— A Happy Client</p>
+
+</section>
+
+
+<!-- CONTACT -->
+<section class="contact section" id="contact">
+
+    <div class="contact-content">
+
+        <p class="small-title">GET IN TOUCH</p>
+
+        <h2>
+            Your next beauty moment starts <span>here.</span>
+        </h2>
+
+        <p>
+            Ready for a little self-care?
+            Contact us and let us help you plan your next visit.
+        </p>
+
+    </div>
+
+
+    <div class="contact-info">
+
+        <div>
+            <span>LOCATION</span>
+            <p>Tripoli, Lebanon</p>
+        </div>
+
+        <div>
+            <span>WHATSAPP</span>
+            <p>+961 81 346 961</p>
+        </div>
+
+        <div>
+            <span>INSTAGRAM</span>
+            <p>@lumebeauty</p>
+        </div>
+
+        <a class="primary-button"
+           href="https://wa.me/96181346961?text=Hello%20Lume%20Beauty,%20I%20would%20like%20to%20book%20an%20appointment.">
+            Book Your Appointment
+        </a>
+
+    </div>
+
+</section>
+
+
+<!-- FOOTER -->
+<footer>
+
+    <div class="footer-logo">LUMÉ</div>
+
+    <p>BEAUTY • CARE • CONFIDENCE</p>
+
+    <span>© 2026 Lumé Beauty. All Rights Reserved.</span>
+
+</footer>
+
+
+
+
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+    const form = document.getElementById("bookingForm");
+    const dateInput = document.getElementById("bookingDate");
+
+    // Prevent selecting a date in the past, using the visitor's local date.
+    if (dateInput) {
+        const now = new Date();
+        const localDate = new Date(now.getTime() - now.getTimezoneOffset() * 60000)
+            .toISOString()
+            .split("T")[0];
+
+        dateInput.min = localDate;
+    }
+
+    if (!form) return;
+
+    form.addEventListener("submit", function (event) {
+        event.preventDefault();
+
+        const name = document.getElementById("clientName").value.trim();
+        const phone = document.getElementById("clientPhone").value.trim();
+        const service = document.getElementById("service").value;
+        const date = document.getElementById("bookingDate").value;
+        const time = document.getElementById("bookingTime").value;
+        const notes = document.getElementById("bookingNotes").value.trim();
+
+        if (!name || !phone || !service || !date || !time) {
+            alert("Please complete all required fields.");
+            return;
+        }
+
+        if (!/^[0-9]{8}$/.test(phone)) {
+            alert("Please enter a valid phone number with 8 digits.");
+            document.getElementById("clientPhone").focus();
+            return;
+        }
+
+        const formattedDate = new Date(date + "T00:00:00").toLocaleDateString(
+            "en-GB",
+            { day: "2-digit", month: "long", year: "numeric" }
+        );
+
+        const message = [
+            "Hello LUMÉ Beauty! I'd like to request an appointment.",
+            "",
+            "Name: " + name,
+            "Phone: " + phone,
+            "Service: " + service,
+            "Preferred date: " + formattedDate,
+            "Preferred time: " + time,
+            "Notes: " + (notes || "None")
+        ].join("\n");
+
+        const whatsappURL =
+            "https://wa.me/96181346961?text=" + encodeURIComponent(message);
+
+        // Navigate in the same tab: this avoids popup blockers and works
+        // more consistently on mobile browsers and in-app browsers.
+        window.location.assign(whatsappURL);
+    });
+});
+</script>
+
+</body>
+</html>
